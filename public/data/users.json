@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Anusha Kanakaraj", 
+        "email":"anusha.kanakaraj@cesltd.com",
+        "status":"Active"
+    },
+    {
+        "id":2,
+        "name":"Chandu Chandran", 
+        "email":"chandu.chandran@cesltd.com",
+        "status":"Active"
+    },
+     {
+        "id":3,
+        "name":"Diana Joseph", 
+        "email":"dianajoseph.dsouza@cesltd.com",
+        "status":"Active"
+    },
+    {
+        "id":4,
+        "name":"Vaishali", 
+        "email":"vaishali.hawaldar@cesltd.com",
+        "status":"Active"
+    }
+]
