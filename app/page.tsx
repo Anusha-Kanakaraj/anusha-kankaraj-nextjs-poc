@@ -12,6 +12,7 @@ export default function Home() {
       <Link href="/users" className = "home-btn">
       Go to Users
       </Link>
+      {/* <button onClick={() => router.push("/users")} className = "home-btn">Go to Users</button> */}
       </div>
       
     </div>
